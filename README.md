@@ -1,1 +1,1 @@
-# ring_detection_detr
+# Automatic detection of ring patterns based on deep learning
