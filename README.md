@@ -138,13 +138,5 @@ Notebookには通常、以下が含まれます：
 
 ---
 
-## TODO（おすすめ改善）
-- Notebook の処理を `train.py / infer.py` に切り出して CLI 化
-- COCO形式への変換（外部ツールとの連携が楽）
-- 合成データ生成器のパラメータを YAML/JSON で管理
-- しきい値最適化（P_det, SNR 解析）を別モジュール化
-
----
-
 ## ライセンス / 引用
 - DETR: Hugging Face / Facebook Research のモデル・重みを利用します（利用条件は各配布元に従ってください）
